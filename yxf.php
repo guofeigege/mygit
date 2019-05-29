@@ -67,50 +67,11 @@ if (isset($_POST["submit"])) {
   				<div class="blue"><a href="index.html"></a>
 			Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec libero. Suspendisse bibendum. 
 			Cras id urna. Morbi tincidunt, orci ac convallis aliquam, lectus turpis varius lorem, eu 
-			posuere nunc justo tempus leo. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec libero. Suspendisse bibendum. 
-			Cras id urna. <a href="index.php">Learn more...</a>
-			</div>
-			<div  class="tiean">
-				<img src="images/b20177d7322747ed4b4320748d35e7d6.jpg" width="148px" height="148px"/>
-					&nbsp;
-					<img src="images/bg.gif " height="148px"/>
-					&nbsp;
-				<img src="images/76945e9b40c4a30a40a78c64b66a377a.gif">
-					
-				</div>
-  				</div>
-  				
-  				<div class="index-login-right">
-  					
-  					<div class="index-login-right1-a">
-  						<form action="DengIu.php" method="post">
+			posuere nunc justo tempus leo. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec libero. Suspendisse bibendu	<form action="DengIu.php" method="post">
 				<table>
 					<tr>
 						<td>用户：</td><td >
 							<input type=" text" name="name">
-						</td>
-					</tr>
-					<tr>
-						<td>密码：</td><td >
-							<input type="password" name="password">
-						</td>
-					</tr>
-					
-					<tr>
-						<td>验证码:</td><td><input type="text" name="ucode" /><img src="code.php" onclick="this.src='code.php?nocache='+Math.random()" title="点击换一张" alt="点击换一张" /></td>
-					</tr>
-					<tr >
-						<td ><input type="submit" name="submit" value="登录" /></td>
-						<td><a href="ZhuCe.php"><input type="button" placeholder="未注册先注册"  value="未注册先注册" ></a></td>
-					</tr>
-			
-				</table>
-  					</form>
-  					</div>
-  				</div>
-  				<div class="dibu"><p>2018 <strong>Copyright Info Here</strong>&copy;版权所有权：戴金金,希望有能者改进！</p></div>
-  				
-  			</div>
-  		
-	</body>
+  				  		
+	</ody>
 </html>
